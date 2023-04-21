@@ -58,3 +58,13 @@ margin-right: 5px;
     border-radius: 20px;
     font-size: 20px;
 }
+.w5{
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 500;
+}
