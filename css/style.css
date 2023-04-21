@@ -18,6 +18,7 @@ width: 20px;
     padding: 5px 20px;
     border: 1px solid white;
     border-radius: 20px;
+    margin-right: 10px;
 }
 .q6{
 text-decoration: none;
@@ -26,4 +27,14 @@ color: white;
 .q7{
 text-decoration: none;
 color: white;
+margin-right: 5px;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+.q4{
+    margin-right: 10px;
+}
+.q6{
+    margin-right: 5px;
 }
