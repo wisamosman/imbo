@@ -49,3 +49,12 @@ margin-right: 5px;
 .w3{
     color: white;
 }
+.w4{
+    color: white;
+    padding: 13px 25px;
+    background-color: #FFC248;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 20px;
+    font-size: 20px;
+}
