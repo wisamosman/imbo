@@ -114,8 +114,20 @@ margin-right: 5px;
 .r4{
 text-decoration: none;
 color: white;
+padding: 14px 25px;
+background-color: #FFC147;
+border-radius: 22px;
+font-weight: 600;
+    font-size: 20px;
+
 }
 .r5{
 text-decoration: none;
 color: #8449AE;
+padding: 14px 25px;
+background-color: white;
+border-radius: 22px;
+font-weight: 600;
+    font-size: 20px;
+
 }
