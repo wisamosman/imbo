@@ -140,3 +140,12 @@ font-weight: 600;
 .t6{color: #3F1D3C;}
 .t7{color: #3F1D3C;}
 .t8{color: #3F1D3C;}
+.t10{
+text-decoration: none;
+color: #3F1D3C;
+background-color: #FFFFFF;
+padding: 12px 25px;
+font-size: 20px;
+font-weight: 600;
+border: 1px solid #3F1D3C;
+}
